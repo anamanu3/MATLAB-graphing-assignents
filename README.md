@@ -1,10 +1,10 @@
-# 🧪 MATLAB Physical Chemistry & Biophysics Simulations
+# MATLAB Physical Chemistry & Biophysics Simulations
 
 This repository contains a collection of MATLAB Live Scripts (`.mlx`) created during a physical chemistry and biophysics course. The scripts simulate and analyze a range of topics across **statistical mechanics**, **molecular kinetics**, **fluorescence dynamics**, and **random walks**, combining theory with data visualization and modeling.
 
 ---
 
-## 📂 Contents
+## Contents
 
 The repository includes simulation notebooks on topics such as:
 
@@ -26,7 +26,7 @@ Each script explores a specific physical model or biological process through:
 
 ---
 
-## 📁 File List
+## File List
 
 This repo includes the following Live Scripts:
 
@@ -49,7 +49,7 @@ This repo includes the following Live Scripts:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Open MATLAB.
 2. Navigate to the repository folder.
@@ -58,7 +58,7 @@ This repo includes the following Live Scripts:
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Scripts are modular and can be customized easily for different parameters.
 - Code is thoroughly commented to support learning and experimentation.
@@ -66,7 +66,7 @@ This repo includes the following Live Scripts:
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions, suggestions, or collaboration:  
 **Ana Manu** – *Reach out through GitHub or email*.
